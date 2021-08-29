@@ -1,5 +1,7 @@
 # GHG EMISSIONS AND THE CHANGE IN EARTH'S TEMPERATURE
 
+![portada](https://github.com/Jorge-Solana/GHG-emissions-and-temperature-on-Earth/blob/main/Imagenes/unnamed.jpg)
+
 ## ETAPAS DEL TRABAJO
 
 Este proyecto consta de tres estapas:
