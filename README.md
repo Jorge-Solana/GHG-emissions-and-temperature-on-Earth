@@ -31,13 +31,13 @@ A la hora de realizar el trabajo de visualización el trabajo que se ha realizad
 
 Para un seguimiento correcto de este proyecto, se pasa a explicar el orden lógico de cada archivo.
     
-    - En primer lugar, dentro de testing cleaning, se encuentra la pequeña limpieza del dataset original. Aquí tambien se encuentra una llamada general a la API.
+- En primer lugar, dentro de testing cleaning, se encuentra la pequeña limpieza del dataset original. Aquí tambien se encuentra una llamada general a la API.
 
-    - Dentro de cleaning_functions.py tenemos las funciones que utilizaremos para llamar a la API, generar los pequeños dataframes y posteriormente limpiarlos.
+- Dentro de cleaning_functions.py tenemos las funciones que utilizaremos para llamar a la API, generar los pequeños dataframes y posteriormente limpiarlos.
 
-    - Dentro de la carpeta main.py se encuentran los for loops que utilizamos para que nuestros dataframes de la API se junten (concat) los cuales serán limpiados después con la función que se encuentra en cleaning_functions.py (limpio)
+- Dentro de la carpeta main.py se encuentran los for loops que utilizamos para que nuestros dataframes de la API se junten (concat) los cuales serán limpiados después con la función que se encuentra en cleaning_functions.py (limpio)
 
-    - Por último, el Jupyter de Visuals es pura visualización con los dataframes generados a partir de las funciones y el dataframe original limpio.
+- Por último, el Jupyter de Visuals es pura visualización con los dataframes generados a partir de las funciones y el dataframe original limpio.
 
 ## Librerías usadas
 
