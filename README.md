@@ -31,3 +31,4 @@ Con este proyecto se pretende ilustrar y confirmar el daño causado por la masiv
 - [Seaborn](https://seaborn.pydata.org/)
 - [Json](https://docs.python.org/3/library/json.html)
 - [Requests](https://docs.python-requests.org/en/master/)
+- [Plotly](https://plotly.com/)
